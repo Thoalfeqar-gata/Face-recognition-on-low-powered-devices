@@ -5,3 +5,6 @@ Steps to run the application:
 1. Add a new subject. You can add as many subjects as your like, but make sure that they all have unique names.
 2. You can now start running the program by choosing to run without a classifier.
 3. If you want, you can train a SVM classifier on the subjects that you just added. After the training of the SVM is done, you can use it by clicking the "Start with classifier button".
+
+Note: if you want to take a look at some sample datasets that were used in the testing phase for making this project, check out the following google drive:
+https://drive.google.com/drive/u/1/folders/1ljSDpf8rCeHY5yw05I6cHMSY2p7g6PNl
